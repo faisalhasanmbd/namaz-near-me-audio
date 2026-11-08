@@ -1,0 +1,579 @@
+{
+ "speaker": "Dr. Israr Ahmad",
+ "work": "Bayan ul Quran (Urdu tafseer, complete)",
+ "source": "Archive.org item BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ",
+ "source_url": "https://archive.org/details/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ",
+ "org": "Tanzeem-e-Islami / Quran Academy",
+ "surahs": {
+  "1": {
+   "file": "001 - Al-Fatihah ( The Opening ) - سورة الفاتحة.mp3",
+   "size": 7017488,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/001%20-%20Al-Fatihah%20%28%20The%20Opening%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD%D8%A9.mp3"
+  },
+  "2": {
+   "file": "002 - Al-Baqarah ( The Cow ) - سورة البقرة.mp3",
+   "size": 117000713,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/002%20-%20Al-Baqarah%20%28%20The%20Cow%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A8%D9%82%D8%B1%D8%A9.mp3"
+  },
+  "3": {
+   "file": "003 - Al-Imran ( The Family of Imran ) - سورة آل عمران.mp3",
+   "size": 44428897,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/003%20-%20Al-Imran%20%28%20The%20Family%20of%20Imran%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A2%D9%84%20%D8%B9%D9%85%D8%B1%D8%A7%D9%86.mp3"
+  },
+  "4": {
+   "file": "004 - An-Nisa ( The Women ) - سورة النساء.mp3",
+   "size": 51153761,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/004%20-%20An-Nisa%20%28%20The%20Women%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1.mp3"
+  },
+  "5": {
+   "file": "005 - Al-Maidah ( The Table spread with Food ) - سورة المائدة.mp3",
+   "size": 31774061,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/005%20-%20Al-Maidah%20%28%20The%20Table%20spread%20with%20Food%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D8%AF%D8%A9.mp3"
+  },
+  "6": {
+   "file": "006 - Al-An'am ( The Cattle ) - سورة الأنعام.mp3",
+   "size": 40102549,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/006%20-%20Al-An%27am%20%28%20The%20Cattle%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A3%D9%86%D8%B9%D8%A7%D9%85.mp3"
+  },
+  "7": {
+   "file": "007 - Al-A'raf (The Heights ) - سورة الأعراف.mp3",
+   "size": 45183845,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/007%20-%20Al-A%27raf%20%28The%20Heights%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%A7%D9%81.mp3"
+  },
+  "8": {
+   "file": "008 - Al-Anfal ( The Spoils of War ) - سورة الأنفال.mp3",
+   "size": 20822457,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/008%20-%20Al-Anfal%20%28%20The%20Spoils%20of%20War%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A3%D9%86%D9%81%D8%A7%D9%84.mp3"
+  },
+  "9": {
+   "file": "009 - At-Taubah ( The Repentance ) - سورة التوبة.mp3",
+   "size": 31066457,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/009%20-%20At-Taubah%20%28%20The%20Repentance%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AA%D9%88%D8%A8%D8%A9.mp3"
+  },
+  "10": {
+   "file": "010 - Yunus ( Jonah ) - سورة يونس.mp3",
+   "size": 16923742,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/010%20-%20Yunus%20%28%20Jonah%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D9%8A%D9%88%D9%86%D8%B3.mp3"
+  },
+  "11": {
+   "file": "011 - Hud - سورة هود.mp3",
+   "size": 20269104,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/011%20-%20Hud%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D9%87%D9%88%D8%AF.mp3"
+  },
+  "12": {
+   "file": "012 - Yusuf (Joseph ) - سورة يوسف.mp3",
+   "size": 16623442,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/012%20-%20Yusuf%20%28Joseph%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D9%8A%D9%88%D8%B3%D9%81.mp3"
+  },
+  "13": {
+   "file": "013 - Ar-Ra'd ( The Thunder ) - سورة الرعد.mp3",
+   "size": 7294484,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/013%20-%20Ar-Ra%27d%20%28%20The%20Thunder%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B1%D8%B9%D8%AF.mp3"
+  },
+  "14": {
+   "file": "014 - Ibrahim ( Abraham ) - سورة إبراهيم.mp3",
+   "size": 9570270,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/014%20-%20Ibrahim%20%28%20Abraham%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85.mp3"
+  },
+  "15": {
+   "file": "015 - Al-Hijr ( The Rocky Tract ) - سورة الحجر.mp3",
+   "size": 12622564,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/015%20-%20Al-Hijr%20%28%20The%20Rocky%20Tract%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AD%D8%AC%D8%B1.mp3"
+  },
+  "16": {
+   "file": "016 - An-Nahl ( The Bees ) - سورة النحل.mp3",
+   "size": 20967641,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/016%20-%20An-Nahl%20%28%20The%20Bees%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%86%D8%AD%D9%84.mp3"
+  },
+  "17": {
+   "file": "017 - Al-Isra ( The Night Journey ) - سورة الإسراء.mp3",
+   "size": 24830825,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/017%20-%20Al-Isra%20%28%20The%20Night%20Journey%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A1.mp3"
+  },
+  "18": {
+   "file": "018 - Al-Kahf ( The Cave ) - سورة الكهف.mp3",
+   "size": 23704434,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/018%20-%20Al-Kahf%20%28%20The%20Cave%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%83%D9%87%D9%81.mp3"
+  },
+  "19": {
+   "file": "019 - Maryam ( Mary ) - سورة مريم.mp3",
+   "size": 11822438,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/019%20-%20Maryam%20%28%20Mary%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D9%85%D8%B1%D9%8A%D9%85.mp3"
+  },
+  "20": {
+   "file": "020 - Taha - سورة طه.mp3",
+   "size": 12371248,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/020%20-%20Taha%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%B7%D9%87.mp3"
+  },
+  "21": {
+   "file": "021 - Al-Anbiya ( The Prophets ) - سورة الأنبياء.mp3",
+   "size": 14109708,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/021%20-%20Al-Anbiya%20%28%20The%20Prophets%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D9%8A%D8%A7%D8%A1.mp3"
+  },
+  "22": {
+   "file": "022 - Al-Hajj ( The Pilgrimage ) - سورة الحج.mp3",
+   "size": 18348590,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/022%20-%20Al-Hajj%20%28%20The%20Pilgrimage%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AD%D8%AC.mp3"
+  },
+  "23": {
+   "file": "023 - Al-Mu'minoon ( The Believers ) - سورة المؤمنون.mp3",
+   "size": 11208590,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/023%20-%20Al-Mu%27minoon%20%28%20The%20Believers%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%88%D9%86.mp3"
+  },
+  "24": {
+   "file": "024 - An-Noor ( The Light ) - سورة النور.mp3",
+   "size": 16433904,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/024%20-%20An-Noor%20%28%20The%20Light%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%86%D9%88%D8%B1.mp3"
+  },
+  "25": {
+   "file": "025 - Al-Furqan (The Criterion ) - سورة الفرقان.mp3",
+   "size": 11707264,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/025%20-%20Al-Furqan%20%28The%20Criterion%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%81%D8%B1%D9%82%D8%A7%D9%86.mp3"
+  },
+  "26": {
+   "file": "026 - Ash-Shuara ( The Poets ) - سورة الشعراء.mp3",
+   "size": 10948944,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/026%20-%20Ash-Shuara%20%28%20The%20Poets%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%D8%A7%D8%A1.mp3"
+  },
+  "27": {
+   "file": "027 - An-Naml (The Ants ) - سورة النمل.mp3",
+   "size": 9588676,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/027%20-%20An-Naml%20%28The%20Ants%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%86%D9%85%D9%84.mp3"
+  },
+  "28": {
+   "file": "028 - Al-Qasas ( The Stories ) - سورة القصص.mp3",
+   "size": 17333298,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/028%20-%20Al-Qasas%20%28%20The%20Stories%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%82%D8%B5%D8%B5.mp3"
+  },
+  "29": {
+   "file": "029 - Al-Ankaboot ( The Spider ) - سورة العنكبوت.mp3",
+   "size": 12766456,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/029%20-%20Al-Ankaboot%20%28%20The%20Spider%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B9%D9%86%D9%83%D8%A8%D9%88%D8%AA.mp3"
+  },
+  "30": {
+   "file": "030 - Ar-Room ( The Romans ) - سورة الروم.mp3",
+   "size": 8208492,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/030%20-%20Ar-Room%20%28%20The%20Romans%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B1%D9%88%D9%85.mp3"
+  },
+  "31": {
+   "file": "031 - Luqman - سورة لقمان.mp3",
+   "size": 7551938,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/031%20-%20Luqman%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D9%84%D9%82%D9%85%D8%A7%D9%86.mp3"
+  },
+  "32": {
+   "file": "032 - As-Sajdah ( The Prostration ) - سورة السجدة.mp3",
+   "size": 3737848,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/032%20-%20As-Sajdah%20%28%20The%20Prostration%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B3%D8%AC%D8%AF%D8%A9.mp3"
+  },
+  "33": {
+   "file": "033 - Al-Ahzab ( The Combined Forces ) - سورة الأحزاب.mp3",
+   "size": 20951494,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/033%20-%20Al-Ahzab%20%28%20The%20Combined%20Forces%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AD%D8%B2%D8%A7%D8%A8.mp3"
+  },
+  "34": {
+   "file": "034 - Saba ( Sheba ) - سورة سبأ.mp3",
+   "size": 8643836,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/034%20-%20Saba%20%28%20Sheba%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%B3%D8%A8%D8%A3.mp3"
+  },
+  "35": {
+   "file": "035 - Fatir ( The Orignator ) - سورة فاطر.mp3",
+   "size": 6124334,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/035%20-%20Fatir%20%28%20The%20Orignator%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D9%81%D8%A7%D8%B7%D8%B1.mp3"
+  },
+  "36": {
+   "file": "036 - Ya-seen - سورة يس.mp3",
+   "size": 7218462,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/036%20-%20Ya-seen%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D9%8A%D8%B3.mp3"
+  },
+  "37": {
+   "file": "037 - As-Saaffat ( Those Ranges in Ranks ) - سورة الصافات.mp3",
+   "size": 11705440,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/037%20-%20As-Saaffat%20%28%20Those%20Ranges%20in%20Ranks%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B5%D8%A7%D9%81%D8%A7%D8%AA.mp3"
+  },
+  "38": {
+   "file": "038 - Sad ( The Letter Sad ) - سورة ص.mp3",
+   "size": 11151374,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/038%20-%20Sad%20%28%20The%20Letter%20Sad%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%B5.mp3"
+  },
+  "39": {
+   "file": "039 - Az-Zumar ( The Groups ) - سورة الزمر.mp3",
+   "size": 12740812,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/039%20-%20Az-Zumar%20%28%20The%20Groups%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B2%D9%85%D8%B1.mp3"
+  },
+  "40": {
+   "file": "040 - Ghafir ( The Forgiver God ) - سورة غافر.mp3",
+   "size": 11406028,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/040%20-%20Ghafir%20%28%20The%20Forgiver%20God%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%BA%D8%A7%D9%81%D8%B1.mp3"
+  },
+  "41": {
+   "file": "041 - Fussilat ( Explained in Detail ) - سورة فصلت.mp3",
+   "size": 9515846,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/041%20-%20Fussilat%20%28%20Explained%20in%20Detail%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D9%81%D8%B5%D9%84%D8%AA.mp3"
+  },
+  "42": {
+   "file": "042 - Ash-Shura (Consultation ) - سورة الشورى.mp3",
+   "size": 12294128,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/042%20-%20Ash-Shura%20%28Consultation%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B4%D9%88%D8%B1%D9%89.mp3"
+  },
+  "43": {
+   "file": "043 - Az-Zukhruf ( The Gold Adornment ) - سورة الزخرف.mp3",
+   "size": 6806370,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/043%20-%20Az-Zukhruf%20%28%20The%20Gold%20Adornment%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B2%D8%AE%D8%B1%D9%81.mp3"
+  },
+  "44": {
+   "file": "044 - Ad-Dukhan ( The Smoke ) - سورة الدخان.mp3",
+   "size": 4907016,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/044%20-%20Ad-Dukhan%20%28%20The%20Smoke%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AF%D8%AE%D8%A7%D9%86.mp3"
+  },
+  "45": {
+   "file": "045 - Al-Jathiya ( Crouching ) - سورة الجاثية.mp3",
+   "size": 5209182,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/045%20-%20Al-Jathiya%20%28%20Crouching%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AC%D8%A7%D8%AB%D9%8A%D8%A9.mp3"
+  },
+  "46": {
+   "file": "046 - Al-Ahqaf ( The Curved Sand-hills ) - سورة الأحقاف.mp3",
+   "size": 7655788,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/046%20-%20Al-Ahqaf%20%28%20The%20Curved%20Sand-hills%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AD%D9%82%D8%A7%D9%81.mp3"
+  },
+  "47": {
+   "file": "047 - Muhammad - سورة محمد.mp3",
+   "size": 8272673,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/047%20-%20Muhammad%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D9%85%D8%AD%D9%85%D8%AF.mp3"
+  },
+  "48": {
+   "file": "048 - Al-Fath ( The Victory ) - سورة الفتح.mp3",
+   "size": 9281462,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/048%20-%20Al-Fath%20%28%20The%20Victory%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%81%D8%AA%D8%AD.mp3"
+  },
+  "49": {
+   "file": "049 - Al-Hujurat ( The Dwellings ) - سورة الحجرات.mp3",
+   "size": 6622706,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/049%20-%20Al-Hujurat%20%28%20The%20Dwellings%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AD%D8%AC%D8%B1%D8%A7%D8%AA.mp3"
+  },
+  "50": {
+   "file": "050 - Qaf ( The Letter Qaf ) - سورة ق.mp3",
+   "size": 7699978,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/050%20-%20Qaf%20%28%20The%20Letter%20Qaf%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D9%82.mp3"
+  },
+  "51": {
+   "file": "051 - Adh-Dhariyat ( The Wind that Scatter ) - سورة الذاريات.mp3",
+   "size": 3971852,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/051%20-%20Adh-Dhariyat%20%28%20The%20Wind%20that%20Scatter%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B0%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA.mp3"
+  },
+  "52": {
+   "file": "052 - At-Tur ( The Mount ) - سورة الطور.mp3",
+   "size": 4157068,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/052%20-%20At-Tur%20%28%20The%20Mount%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B7%D9%88%D8%B1.mp3"
+  },
+  "53": {
+   "file": "053 - An-Najm ( The Star ) - سورة النجم.mp3",
+   "size": 6497538,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/053%20-%20An-Najm%20%28%20The%20Star%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%86%D8%AC%D9%85.mp3"
+  },
+  "54": {
+   "file": "054 - Al-Qamar ( The Moon ) - سورة القمر.mp3",
+   "size": 4791834,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/054%20-%20Al-Qamar%20%28%20The%20Moon%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%82%D9%85%D8%B1.mp3"
+  },
+  "55": {
+   "file": "055 - Ar-Rahman ( The Most Graciouse ) - سورة الرحمن.mp3",
+   "size": 7270572,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/055%20-%20Ar-Rahman%20%28%20The%20Most%20Graciouse%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86.mp3"
+  },
+  "56": {
+   "file": "056 - Al-Waqi'ah ( The Event ) - سورة الواقعة.mp3",
+   "size": 7229806,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/056%20-%20Al-Waqi%27ah%20%28%20The%20Event%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9%D8%A9.mp3"
+  },
+  "57": {
+   "file": "057 - Al-Hadid ( The Iron ) - سورة الحديد.mp3",
+   "size": 19059696,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/057%20-%20Al-Hadid%20%28%20The%20Iron%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF.mp3"
+  },
+  "58": {
+   "file": "058 - Al-Mujadilah ( She That Disputeth ) - سورة المجادلة.mp3",
+   "size": 7404010,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/058%20-%20Al-Mujadilah%20%28%20She%20That%20Disputeth%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D8%AF%D9%84%D8%A9.mp3"
+  },
+  "59": {
+   "file": "059 - Al-Hashr ( The Gathering ) - سورة الحشر.mp3",
+   "size": 10192242,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/059%20-%20Al-Hashr%20%28%20The%20Gathering%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AD%D8%B4%D8%B1.mp3"
+  },
+  "60": {
+   "file": "060 - Al-Mumtahanah ( The Woman to be examined ) - سورة الممتحنة.mp3",
+   "size": 5190668,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/060%20-%20Al-Mumtahanah%20%28%20The%20Woman%20to%20be%20examined%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%AD%D9%86%D8%A9.mp3"
+  },
+  "61": {
+   "file": "061 - As-Saff ( The Row ) - سورة الصف.mp3",
+   "size": 6121472,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/061%20-%20As-Saff%20%28%20The%20Row%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B5%D9%81.mp3"
+  },
+  "62": {
+   "file": "062 - Al-Jumu'ah ( Friday ) - سورة الجمعة.mp3",
+   "size": 4599608,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/062%20-%20Al-Jumu%27ah%20%28%20Friday%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9.mp3"
+  },
+  "63": {
+   "file": "063 - Al-Munafiqoon ( The Hypocrites ) - سورة المنافقون.mp3",
+   "size": 5121728,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/063%20-%20Al-Munafiqoon%20%28%20The%20Hypocrites%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D9%82%D9%88%D9%86.mp3"
+  },
+  "64": {
+   "file": "064 - At-Taghabun ( Mutual Loss & Gain ) - سورة التغابن.mp3",
+   "size": 5476144,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/064%20-%20At-Taghabun%20%28%20Mutual%20Loss%20%26%20Gain%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AA%D8%BA%D8%A7%D8%A8%D9%86.mp3"
+  },
+  "65": {
+   "file": "065 - At-Talaq ( The Divorce ) - سورة الطلاق.mp3",
+   "size": 4467616,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/065%20-%20At-Talaq%20%28%20The%20Divorce%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D9%82.mp3"
+  },
+  "66": {
+   "file": "066 - At-Tahrim ( The Prohibition ) - سورة التحريم.mp3",
+   "size": 4703542,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/066%20-%20At-Tahrim%20%28%20The%20Prohibition%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D9%85.mp3"
+  },
+  "67": {
+   "file": "067 - Al-Mulk ( Dominion ) - سورة الملك.mp3",
+   "size": 3761564,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/067%20-%20Al-Mulk%20%28%20Dominion%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D9%84%D9%83.mp3"
+  },
+  "68": {
+   "file": "068 - Al-Qalam ( The Pen ) - سورة القلم.mp3",
+   "size": 4323932,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/068%20-%20Al-Qalam%20%28%20The%20Pen%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%82%D9%84%D9%85.mp3"
+  },
+  "69": {
+   "file": "069 - Al-Haaqqah ( The Inevitable ) - سورة الحاقة.mp3",
+   "size": 2013736,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/069%20-%20Al-Haaqqah%20%28%20The%20Inevitable%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AD%D8%A7%D9%82%D8%A9.mp3"
+  },
+  "70": {
+   "file": "070 - Al-Ma'arij (The Ways of Ascent ) - سورة المعارج.mp3",
+   "size": 3208610,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/070%20-%20Al-Ma%27arij%20%28The%20Ways%20of%20Ascent%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%AC.mp3"
+  },
+  "71": {
+   "file": "071 - Nooh - سورة نوح.mp3",
+   "size": 2549912,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/071%20-%20Nooh%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D9%86%D9%88%D8%AD.mp3"
+  },
+  "72": {
+   "file": "072 - Al-Jinn ( The Jinn ) - سورة الجن.mp3",
+   "size": 3577022,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/072%20-%20Al-Jinn%20%28%20The%20Jinn%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AC%D9%86.mp3"
+  },
+  "73": {
+   "file": "073 - Al-Muzzammil (The One wrapped in Garments) - سورة المزمل.mp3",
+   "size": 2716348,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/073%20-%20Al-Muzzammil%20%28The%20One%20wrapped%20in%20Garments%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%B2%D9%85%D9%84.mp3"
+  },
+  "74": {
+   "file": "074 - Al-Muddaththir ( The One Enveloped ) - سورة المدثر.mp3",
+   "size": 5635228,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/074%20-%20Al-Muddaththir%20%28%20The%20One%20Enveloped%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%AF%D8%AB%D8%B1.mp3"
+  },
+  "75": {
+   "file": "075 - Al-Qiyamah ( The Resurrection ) - سورة القيامة.mp3",
+   "size": 2666848,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/075%20-%20Al-Qiyamah%20%28%20The%20Resurrection%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D9%85%D8%A9.mp3"
+  },
+  "76": {
+   "file": "076 - Al-Insan ( Man ) - سورة الإنسان.mp3",
+   "size": 2413508,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/076%20-%20Al-Insan%20%28%20Man%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86.mp3"
+  },
+  "77": {
+   "file": "077 - Al-Mursalat ( Those sent forth ) - سورة المرسلات.mp3",
+   "size": 2187186,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/077%20-%20Al-Mursalat%20%28%20Those%20sent%20forth%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D9%84%D8%A7%D8%AA.mp3"
+  },
+  "78": {
+   "file": "078 - An-Naba' ( The Great News ) - سورة النبأ.mp3",
+   "size": 1590550,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/078%20-%20An-Naba%27%20%28%20The%20Great%20News%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%86%D8%A8%D8%A3.mp3"
+  },
+  "79": {
+   "file": "079 - An-Nazi'at ( Those who Pull Out ) - سورة النازعات.mp3",
+   "size": 2816858,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/079%20-%20An-Nazi%27at%20%28%20Those%20who%20Pull%20Out%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%B2%D8%B9%D8%A7%D8%AA.mp3"
+  },
+  "80": {
+   "file": "080 - Abasa ( He frowned ) - سورة عبس.mp3",
+   "size": 2771708,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/080%20-%20Abasa%20%28%20He%20frowned%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%B9%D8%A8%D8%B3.mp3"
+  },
+  "81": {
+   "file": "081 - At-Takwir ( The Overthrowing ) - سورة التكوير.mp3",
+   "size": 2143043,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/081%20-%20At-Takwir%20%28%20The%20Overthrowing%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AA%D9%83%D9%88%D9%8A%D8%B1.mp3"
+  },
+  "82": {
+   "file": "082 - Al-Infitar ( The Cleaving ) - سورة الانفطار.mp3",
+   "size": 1569460,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/082%20-%20Al-Infitar%20%28%20The%20Cleaving%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%B7%D8%A7%D8%B1.mp3"
+  },
+  "83": {
+   "file": "083 - Al-Mutaffifin (Those Who Deal in Fraud) - سورة المطففين.mp3",
+   "size": 2311678,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/083%20-%20Al-Mutaffifin%20%28Those%20Who%20Deal%20in%20Fraud%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%B7%D9%81%D9%81%D9%8A%D9%86.mp3"
+  },
+  "84": {
+   "file": "084 - Al-Inshiqaq (The Splitting Asunder) - سورة الانشقاق.mp3",
+   "size": 4945146,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/084%20-%20Al-Inshiqaq%20%28The%20Splitting%20Asunder%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D9%86%D8%B4%D9%82%D8%A7%D9%82.mp3"
+  },
+  "85": {
+   "file": "085 - Al-Burooj ( The Big Stars ) - سورة البروج.mp3",
+   "size": 1609884,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/085%20-%20Al-Burooj%20%28%20The%20Big%20Stars%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AC.mp3"
+  },
+  "86": {
+   "file": "086 - At-Tariq ( The Night-Comer ) - سورة الطارق.mp3",
+   "size": 727378,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/086%20-%20At-Tariq%20%28%20The%20Night-Comer%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B7%D8%A7%D8%B1%D9%82.mp3"
+  },
+  "87": {
+   "file": "087 - Al-A'la ( The Most High ) - سورة الأعلى.mp3",
+   "size": 3096532,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/087%20-%20Al-A%27la%20%28%20The%20Most%20High%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89.mp3"
+  },
+  "88": {
+   "file": "088 - Al-Ghashiya ( The Overwhelming ) - سورة الغاشية.mp3",
+   "size": 1783538,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/088%20-%20Al-Ghashiya%20%28%20The%20Overwhelming%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%BA%D8%A7%D8%B4%D9%8A%D8%A9.mp3"
+  },
+  "89": {
+   "file": "089 - Al-Fajr ( The Dawn ) - سورة الفجر.mp3",
+   "size": 3101684,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/089%20-%20Al-Fajr%20%28%20The%20Dawn%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%81%D8%AC%D8%B1.mp3"
+  },
+  "90": {
+   "file": "090 - Al-Balad ( The City ) - سورة البلد.mp3",
+   "size": 2210290,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/090%20-%20Al-Balad%20%28%20The%20City%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A8%D9%84%D8%AF.mp3"
+  },
+  "91": {
+   "file": "091 - Ash-Shams ( The Sun ) - سورة الشمس.mp3",
+   "size": 2922982,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/091%20-%20Ash-Shams%20%28%20The%20Sun%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B4%D9%85%D8%B3.mp3"
+  },
+  "92": {
+   "file": "092 - Al-Layl ( The Night ) - سورة الليل.mp3",
+   "size": 3620444,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/092%20-%20Al-Layl%20%28%20The%20Night%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%84%D9%8A%D9%84.mp3"
+  },
+  "93": {
+   "file": "093 - Ad-Dhuha ( The Forenoon ) - سورة الضحى.mp3",
+   "size": 1794704,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/093%20-%20Ad-Dhuha%20%28%20The%20Forenoon%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B6%D8%AD%D9%89.mp3"
+  },
+  "94": {
+   "file": "094 - As-Sharh ( The Opening Forth) - سورة الشرح.mp3",
+   "size": 1533640,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/094%20-%20As-Sharh%20%28%20The%20Opening%20Forth%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B4%D8%B1%D8%AD.mp3"
+  },
+  "95": {
+   "file": "095 - At-Tin ( The Fig ) - سورة التين.mp3",
+   "size": 1074020,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/095%20-%20At-Tin%20%28%20The%20Fig%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AA%D9%8A%D9%86.mp3"
+  },
+  "96": {
+   "file": "096 - Al-'alaq ( The Clot ) - سورة العلق.mp3",
+   "size": 2207480,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/096%20-%20Al-%27alaq%20%28%20The%20Clot%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B9%D9%84%D9%82.mp3"
+  },
+  "97": {
+   "file": "097 - Al-Qadr ( The Night of Decree ) - سورة القدر.mp3",
+   "size": 547088,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/097%20-%20Al-Qadr%20%28%20The%20Night%20of%20Decree%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%82%D8%AF%D8%B1.mp3"
+  },
+  "98": {
+   "file": "098 - Al-Bayyinah ( The Clear Evidence ) - سورة البينة.mp3",
+   "size": 1580656,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/098%20-%20Al-Bayyinah%20%28%20The%20Clear%20Evidence%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A8%D9%8A%D9%86%D8%A9.mp3"
+  },
+  "99": {
+   "file": "099 - Az-Zalzalah ( The Earthquake ) - سورة الزلزلة.mp3",
+   "size": 2175302,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/099%20-%20Az-Zalzalah%20%28%20The%20Earthquake%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B2%D9%84%D8%B2%D9%84%D8%A9.mp3"
+  },
+  "100": {
+   "file": "100 - Al-'adiyat ( Those That Run ) - سورة العاديات.mp3",
+   "size": 831932,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/100%20-%20Al-%27adiyat%20%28%20Those%20That%20Run%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%8A%D8%A7%D8%AA.mp3"
+  },
+  "101": {
+   "file": "101 - Al-Qari'ah ( The Striking Hour ) - سورة القارعة.mp3",
+   "size": 560630,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/101%20-%20Al-Qari%27ah%20%28%20The%20Striking%20Hour%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%82%D8%A7%D8%B1%D8%B9%D8%A9.mp3"
+  },
+  "102": {
+   "file": "102 - At-Takathur ( The piling Up ) - سورة التكاثر.mp3",
+   "size": 681158,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/102%20-%20At-Takathur%20%28%20The%20piling%20Up%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D8%AB%D8%B1.mp3"
+  },
+  "103": {
+   "file": "103 - Al-Asr ( The Time ) - سورة العصر.mp3",
+   "size": 518898,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/103%20-%20Al-Asr%20%28%20The%20Time%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B5%D8%B1.mp3"
+  },
+  "104": {
+   "file": "104 - Al-Humazah ( The Slanderer ) - سورة الهمزة.mp3",
+   "size": 943996,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/104%20-%20Al-Humazah%20%28%20The%20Slanderer%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%87%D9%85%D8%B2%D8%A9.mp3"
+  },
+  "105": {
+   "file": "105 - Al-Fil ( The Elephant ) - سورة الفيل.mp3",
+   "size": 751856,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/105%20-%20Al-Fil%20%28%20The%20Elephant%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%81%D9%8A%D9%84.mp3"
+  },
+  "106": {
+   "file": "106 - Quraish - سورة قريش.mp3",
+   "size": 911412,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/106%20-%20Quraish%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D9%82%D8%B1%D9%8A%D8%B4.mp3"
+  },
+  "107": {
+   "file": "107 - Al-Ma'un ( Small Kindnesses ) - سورة الماعون.mp3",
+   "size": 932724,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/107%20-%20Al-Ma%27un%20%28%20Small%20Kindnesses%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%A7%D8%B9%D9%88%D9%86.mp3"
+  },
+  "108": {
+   "file": "108 - Al-Kauthor ( A River in Paradise) - سورة الكوثر.mp3",
+   "size": 659700,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/108%20-%20Al-Kauthor%20%28%20A%20River%20in%20Paradise%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%83%D9%88%D8%AB%D8%B1.mp3"
+  },
+  "109": {
+   "file": "109 - Al-Kafiroon ( The Disbelievers ) - سورة الكافرون.mp3",
+   "size": 476536,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/109%20-%20Al-Kafiroon%20%28%20The%20Disbelievers%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%83%D8%A7%D9%81%D8%B1%D9%88%D9%86.mp3"
+  },
+  "110": {
+   "file": "110 - An-Nasr ( The Help ) - سورة النصر.mp3",
+   "size": 514112,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/110%20-%20An-Nasr%20%28%20The%20Help%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%86%D8%B5%D8%B1.mp3"
+  },
+  "111": {
+   "file": "111 - Al-Masad ( The Palm Fibre ) - سورة المسد.mp3",
+   "size": 1296460,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/111%20-%20Al-Masad%20%28%20The%20Palm%20Fibre%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%B3%D8%AF.mp3"
+  },
+  "112": {
+   "file": "112 - Al-Ikhlas ( Sincerity ) - سورة الإخلاص.mp3",
+   "size": 714422,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/112%20-%20Al-Ikhlas%20%28%20Sincerity%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A5%D8%AE%D9%84%D8%A7%D8%B5.mp3"
+  },
+  "113": {
+   "file": "113 - Al-Falaq ( The Daybreak ) - سورة الفلق.mp3",
+   "size": 1345822,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/113%20-%20Al-Falaq%20%28%20The%20Daybreak%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%81%D9%84%D9%82.mp3"
+  },
+  "114": {
+   "file": "114 - An-Nas ( Mankind ) - سورة الناس.mp3",
+   "size": 2700572,
+   "url": "https://archive.org/download/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ/114%20-%20An-Nas%20%28%20Mankind%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%B3.mp3"
+  }
+ }
+}
