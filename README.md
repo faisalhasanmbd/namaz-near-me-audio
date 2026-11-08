@@ -17,3 +17,7 @@ Audio used by the free, ad-free **Namaz Near Me** app (free on Google Play and t
 `bayan_israr.json` is a list of links, one per surah, to **Dr. Israr Ahmad's complete Urdu tafseer, Bayan ul Quran**. The audio files are **not stored here**: the app streams each one directly from its public home on [Archive.org](https://archive.org/details/BayanUlQuranInUrduByDr.IsrarAhmedAudioMP3-HQ), so nothing is copied or re-hosted.
 
 **All credit to Dr. Israr Ahmad (rahimahullah) and Tanzeem-e-Islami / Quran Academy**, whose work this is, and to the person who shared it on Archive.org. The app is free and has no ads; the link is kept here only so the app can play it for the listener. If its owners wish it to be removed, please open an issue and the link will be taken down.
+
+## NooreSunnat tafseer lectures (Mufti Zubair Ashraf Usmani, Mufti Mahmood Ashraf Usmani)
+
+`tafseer_noor.json` lists their lectures with direct links to [NooreSunnat.com](https://www.nooresunnat.com/TafseerList.php). The audio is not copied here; the app streams it from their site. All credit to the speakers and NooreSunnat.com, who share it free for dawah. If they wish the links removed, please open an issue.
